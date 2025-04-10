@@ -17,5 +17,5 @@ pregunta 5 (carpeta 5)
 pregunta 6 (pregunta6_reflexion.docx)
   archivo docx
 
-
+nota: solo falto validar el correcto funcionamiento de la respuesta 5, no cuento con instancia de conexión con ElasticSearch
   
