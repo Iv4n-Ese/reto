@@ -12,7 +12,7 @@ pregunta 4 (carpeta 4)
   archivo docx (incluye script sql) y script sql
 
 pregunta 5 (carpeta 5)
-  script de funcionalidad 
+  script de funcionalidad, documentos obtenidos e imágenes de las pruebas
 
 pregunta 6 (pregunta6_reflexion.docx)
   archivo docx
